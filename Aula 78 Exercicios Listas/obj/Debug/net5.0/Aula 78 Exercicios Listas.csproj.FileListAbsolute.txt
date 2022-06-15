@@ -1,0 +1,16 @@
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\bin\Debug\net5.0\Aula 78 Exercicios Listas.exe
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\bin\Debug\net5.0\Aula 78 Exercicios Listas.deps.json
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\bin\Debug\net5.0\Aula 78 Exercicios Listas.runtimeconfig.json
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\bin\Debug\net5.0\Aula 78 Exercicios Listas.runtimeconfig.dev.json
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\bin\Debug\net5.0\Aula 78 Exercicios Listas.dll
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\bin\Debug\net5.0\Aula 78 Exercicios Listas.pdb
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\obj\Debug\net5.0\Aula 78 Exercicios Listas.csproj.AssemblyReference.cache
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\obj\Debug\net5.0\Aula 78 Exercicios Listas.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\obj\Debug\net5.0\Aula 78 Exercicios Listas.AssemblyInfoInputs.cache
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\obj\Debug\net5.0\Aula 78 Exercicios Listas.AssemblyInfo.cs
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\obj\Debug\net5.0\Aula 78 Exercicios Listas.csproj.CoreCompileInputs.cache
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\obj\Debug\net5.0\Aula 78 Exercicios Listas.dll
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\obj\Debug\net5.0\refint\Aula 78 Exercicios Listas.dll
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\obj\Debug\net5.0\Aula 78 Exercicios Listas.pdb
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\obj\Debug\net5.0\Aula 78 Exercicios Listas.genruntimeconfig.cache
+E:\CURSO C#  OO\C# Udemy\ExerciciosListas Aula 78\Aula 78 Exercicios Listas\obj\Debug\net5.0\ref\Aula 78 Exercicios Listas.dll
